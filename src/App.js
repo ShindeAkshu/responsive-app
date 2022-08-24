@@ -1,5 +1,5 @@
 import {useState,useEffect} from react; 
-import 
+import components from './components.js'
 import './index.css';
 import './App.css';
 
@@ -12,6 +12,7 @@ function App() {
      <div className="Container">
       <div className="navBar">
         <a href="">Home</a>
+        <components></components>
       </div>
      </div>
     </div>
