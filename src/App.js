@@ -1,7 +1,5 @@
 import {useState,useEffect} from react; 
-
 import React from 'react';
-import './index.css';
 import './App.css';
 
 function App() {
