@@ -13,6 +13,8 @@ function Navbar() {
             <span>About</span>
             <span>Contact</span>
 
+            
+
         </nav>
         
         
