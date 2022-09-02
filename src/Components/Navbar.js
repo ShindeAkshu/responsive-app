@@ -8,6 +8,11 @@ function Navbar() {
             <span>Home</span>
             <span>About</span>
             <span>Contact</span>
+
+            <span>Home</span>
+            <span>About</span>
+            <span>Contact</span>
+
         </nav>
         
         
