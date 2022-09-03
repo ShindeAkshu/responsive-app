@@ -18,11 +18,7 @@
   background-color: aquamarine;
 }
 
-.App {
-  text-align: center;
-  display:flex;
-  justify-content: center;
-}
+
 
 .components {
   height: 500px;
