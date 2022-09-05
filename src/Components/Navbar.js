@@ -2,23 +2,19 @@ import React from 'react';
 import {useState} from 'react';
 
 function Navbar() {
-    const[navitems,setNavItems] = useState();
     return(
-        <nav>
-            <span>Home</span>
-            <span>About</span>
-            <span>Contact</span>
+        <nav className='navbar'>
+            <div className='navbar-container'>
+                <link to="/" className=''></link>
 
-            <span>Home</span>
-            <span>About</span>
-            <span>Contact</span>
-
-            
-
+            </div>
         </nav>
+    ) 
+
+       
         
         
-    )
+    
 }
 
 export default Navbar
