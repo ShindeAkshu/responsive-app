@@ -13,24 +13,6 @@ function App() {
         <a href="">Home</a>
         <h1>Yo</h1>
         <components></components>
-      
-        <a href="">Home</a>
-        <h1>Yo</h1>
-        <components></components>
-
-        <a href="">Home</a>
-        <h1>Yo</h1>
-        <components></components>
-
-
-        
-
-
-       
-
-
-
-        
      </div>
     </div>
   );
