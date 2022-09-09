@@ -39,8 +39,8 @@ function Navbar() {
                            Sign-Up 
                         </link>
                     </li>
-
                 </ul>
+                {buton && <Button></Button>}
 
             </div>
         </nav>
