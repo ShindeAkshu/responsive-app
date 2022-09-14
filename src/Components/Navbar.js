@@ -16,12 +16,7 @@ function Navbar() {
         }
     };
 
-    window.addEventListener('resize',showButton)
-    return(
-        <nav className='navbar'>
-            <div className='navbar-container'>
-                <link to="/" className='navbar-logo'>
-                    Travels <i className="fab fa-typo3"></i>
+    
 
                 </link>
                 <div className="menu-icon" onClick={handleClick}>
