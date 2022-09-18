@@ -8,12 +8,7 @@ function App() {
 
   return (
     <div className="App">
-     <div className="Container">
-      
-        <a href="">Home</a>
-        <h1>Yo</h1>
-        <components></components>
-     </div>
+    
     </div>
   );
 }
